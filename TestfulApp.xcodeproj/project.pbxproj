@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		0118B0FC1F544792009D3DAA /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0118B0FB1F544792009D3DAA /* Coordinator.swift */; };
-		0118B0FE1F5447C5009D3DAA /* AppCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0118B0FD1F5447C5009D3DAA /* AppCoordinator.swift */; };
 		0120D6811F53F6B7005B210C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0120D6801F53F6B7005B210C /* AppDelegate.swift */; };
 		0120D6831F53F6B7005B210C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0120D6821F53F6B7005B210C /* ViewController.swift */; };
 		0120D6861F53F6B7005B210C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0120D6841F53F6B7005B210C /* Main.storyboard */; };
@@ -342,7 +341,6 @@
 				0120D6AA1F540C79005B210C /* ContactViewModel.swift in Sources */,
 				0120D69B1F5405A7005B210C /* ChatsCell.swift in Sources */,
 				01E923F01F5440A5003A2650 /* ChatMessages+CoreDataProperties.swift in Sources */,
-				0118B0FE1F5447C5009D3DAA /* AppCoordinator.swift in Sources */,
 				0120D6A81F540B6D005B210C /* ChatsRepresentation.swift in Sources */,
 				01F3E3E51F557FDA006E4157 /* LoaderTransitionManager.swift in Sources */,
 				0120D6831F53F6B7005B210C /* ViewController.swift in Sources */,
